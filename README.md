@@ -8,4 +8,4 @@ Projeto Front-End construído durante o Next Level Week eSports na Trilha Explor
 
 
 
-![alt text](image-2.png)
+![alt text](image.png)
